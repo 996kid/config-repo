@@ -1,6 +1,0 @@
-eureka:
-  client:
-    fetch-registry: true
-    registerWithEureka: true
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
